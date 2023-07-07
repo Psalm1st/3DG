@@ -1,0 +1,214 @@
+{
+  "buildings": [
+    {
+      "name": "Eiffel Tower",
+      "longitude": "2.2945",
+      "latitude": "48.8584",
+      "height": "230",
+      "fun_fact": "It was constructed for the 1889 Exposition Universelle in Paris.",
+      "city": "Paris",
+      "country": "France",
+      "distance": "650"
+    },
+    {
+      "name": "Great Pyramid of Giza",
+      "longitude": "31.13429058",
+      "latitude": "29.97927331",
+      "height": "138.5",
+      "fun_fact": "It's the oldest and last remaining of the original seven world wonders.",
+      "city": "Cairo",
+      "country": "Egypt",
+      "distance": "500"
+    },
+    {
+      "name": "St. Peter's Basilica",
+      "longitude": "12.453937",
+      "latitude": "41.902168",
+      "height": "138.5",
+      "fun_fact": "It Took 120 Years To Build and was only finished in 1675.",
+      "city": "Vatican City",
+      "country": "Vatican City",
+      "distance": "500"
+    },
+    {
+      "name": "Empire State Building",
+      "longitude": "-73.9857",
+      "latitude": "40.7484",
+      "height": "203.2",
+      "fun_fact": "The Empire State Building is an iconic skyscraper in New York City and was the tallest building in the world until 1970.",
+      "city": "New York City",
+      "country": "United States",
+      "distance": "800"
+    },
+    {
+      "name": "Space Needle",
+      "longitude": "-122.3493",
+      "latitude": "47.6205",
+      "height": "164",
+      "fun_fact": "The Space Needle is an observation tower and a prominent landmark in Seattle. Built for the 1962 World's Fair, it offers panoramic views of the city, including the downtown skyline, Elliott Bay, and the surrounding mountains.",
+      "country": "United States",
+      "city": "Seattle",
+      "distance": "500"
+    },
+    {
+      "name": "Tokyo Tower",
+      "longitude": "139.74541",
+      "latitude": "35.65861",
+      "height": "183",
+      "fun_fact": "The Tokyo Tower gets a fresh coat of paint every five years. It takes a whole year to paint the entire tower.",
+      "city": "Tokyo",
+      "country": "Japan",
+      "distance": "700"
+    },
+    {
+      "name": "Tower of Pisa",
+      "longitude": "10.39666138",
+      "latitude": "43.72292805",
+      "height": "55.86",
+      "fun_fact": "The Leaning Tower of Pisa is famous for its unintended tilt. It began to lean during construction due to an inadequate foundation.",
+      "city": "Pisa",
+      "country": "Italy",
+      "distance": "250"
+    },
+    {
+      "name": "Euromast",
+      "longitude": "4.4666374",
+      "latitude": "51.9054439",
+      "height": "145",
+      "fun_fact": "It is possible for participants to descend from a height of 100 meters (328 feet) under the guidance of experienced instructors.",
+      "city": "Rotterdam",
+      "country": "The Netherlands",
+      "distance": "400"
+    },
+    {
+      "name": "Alexander Nevsky Cathedral",
+      "longitude": "23.3328704",
+      "latitude": "42.6958847",
+      "height": "603.2",
+      "fun_fact": "It was built in the early 20th century and features stunning Byzantine and Bulgarian architectural elements. The cathedral is dedicated to the memory of Russian soldiers who died during the Russo-Turkish War of 1877-1878.",
+      "city": "Sofia",
+      "country": "Bulgaria",
+      "distance": "250"
+    },
+    {
+      "name": "HZ University",
+      "longitude": "3.60946",
+      "latitude": "51.49475",
+      "height": "77",
+      "fun_fact": "We study there.",
+      "city": "Middelburg",
+      "country": "The Netherlands",
+      "distance": "150"
+    },
+    {
+      "name": "Marina Bay Sands",
+      "longitude": "103.8587",
+      "latitude": "1.2836",
+      "height": "200",
+      "fun_fact": "Marina Bay Sands is an iconic integrated resort complex located in Singapore, known for its distinctive architecture and luxurious amenities.",
+      "city": "Singapore",
+      "country": "Singapore",
+      "distance": "500"
+    },
+    {
+      "name": "Sydney Opera House",
+      "longitude": "151.2152967",
+      "latitude": "-33.8567844",
+      "height": "25",
+      "fun_fact": "The iconic exterior of the Opera House is made up of over one million glazed white ceramic tiles. The tiles were specially designed to reflect sunlight and create an ever-changing appearance throughout the day.",
+      "city": "Sydney",
+      "country": "Australia",
+      "distance": "400"
+    },
+    {
+      "name": "Reichstag Building",
+      "longitude": "13.3761872",
+      "latitude": "52.5186202",
+      "height": "100",
+      "fun_fact": "It is the seat of the German parliament (Bundestag). It is a historic building with a modern glass dome that offers panoramic views of Berlin. The Reichstag has witnessed significant events throughout Germany's history and stands as a symbol of democracy.",
+      "city": "Berlin",
+      "country": "Germany",
+      "distance": "370"
+    },
+    {
+      "name": "Cologne Cathedral",
+      "longitude": "6.9582814",
+      "latitude": "50.9412784",
+      "height": "177",
+      "fun_fact": "The Cologne Cathedral is a magnificent Gothic masterpiece and one of the largest cathedrals in the world. Construction of the cathedral began in the 13th century and was completed in the 19th century. It is known for its intricate architecture, stunning stained glass windows, and its Shrine of the Three Kings, which is said to hold the relics of the biblical Magi.",
+      "city": "Cologne",
+      "country": "Germany",
+      "distance": "300"
+    },
+    {
+      "name": "The Maastoren",
+      "longitude": "4.49327634",
+      "latitude": "51.90855147",
+      "height": "165",
+      "fun_fact": "The Maastoren is a skyscraper situated on the southern bank of the Nieuwe Maas river in Rotterdam. It is the tallest building in the Netherlands and serves as a commercial office building.",
+      "city": "Rotterdam",
+      "country": "The Netherlands",
+      "distance": "335"
+    },
+    {
+      "name": "The Shard",
+      "longitude": "-0.08629125",
+      "latitude": "51.50452572",
+      "height": "230",
+      "fun_fact": "The Shard is the tallest building in the United Kingdom and one of the most iconic landmarks in London. It offers panoramic views of the city from its observation decks and houses offices, a hotel, restaurants, and residential apartments.",
+      "city": "London",
+      "country": "United Kingdom",
+      "distance": "527"
+    },
+    {
+      "name": "Sydney Harbour Bridge",
+      "longitude": "151.21078674",
+      "latitude": "-33.85198545",
+      "height": "155",
+      "fun_fact": "Sydney Harbour Bridge is a steel arch bridge that spans across Sydney Harbour. It is one of the world's largest steel arch bridges and is a significant landmark in Sydney, offering stunning views of the harbor and the city skyline.",
+      "city": "Sydney",
+      "country": "Australia",
+      "distance": "666"
+    },
+    {
+      "name": "Big Ben",
+      "longitude": "-0.1246254",
+      "latitude": "51.5007292",
+      "height": "105",
+      "fun_fact": "The Great Clock of Westminster, housed within the Elizabeth Tower, is famous for its giant bell known as Big Ben. The clock tower was completed in 1859 and has since become an iconic symbol of London and British culture.",
+      "city": "London",
+      "country": "United Kingdom",
+      "distance": "192"
+    },
+    {
+      "name": "Sardijntoren",
+      "longitude": "3.56199523",
+      "latitude": "51.44787879",
+      "height": "130",
+      "fun_fact": "A.K.A Sardine Tower. It was originally built in 1948 as a water tower but has since been repurposed. The tower features an observation deck that offers panoramic views of the city, the Westerschelde river, and the coastline.",
+      "city": "Vlissingen",
+      "country": "The Netherlands",
+      "distance": "265"
+    },
+    {
+      "name": "Torre Latinoamericana",
+      "longitude": "-99.14070903",
+      "latitude": "19.43396857",
+      "height": "2302",
+      "fun_fact": "The Torre Latinoamericana is a skyscraper located in the historic center of Mexico City. It was completed in 1956 and held the title of the tallest building in Latin America for many years.",
+      "city": "Mexico City",
+      "country": "Mexico",
+      "distance": "330"
+    },
+    {
+      "name": "Acropolis of Athens",
+      "longitude": "23.72655705",
+      "latitude": "37.97141266",
+      "height": "200",
+      "fun_fact": "The Acropolis of Athens is an ancient citadel that holds tremendous historical and cultural significance as the birthplace of democracy and the cradle of Western civilization",
+      "city": "Athens",
+      "country": "Greece",
+      "distance": "270"
+    }
+  ]
+}
